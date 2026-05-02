@@ -465,5 +465,19 @@ python -m backend.ml.train    # use -m flag
 uvicorn backend.api.main:app --port 8001    # use different port
 ```
 ---
+---
 
+## My Contribution
+- Forked this project and studied its implementation
+- Understood deep learning model (ResNet18) used for classification
+- Explored Explainable AI techniques like Grad-CAM and LIME
+- Reviewed evaluation results and outputs
+
+## Evaluation Summary
+- The model achieves around 96% accuracy on PlantVillage dataset
+- Outputs are available in the outputs folder
+- Multi-class classification of plant diseases is performed
+
+## Author
+Deeksha Darshi
 ## ⭐ If this project helped you, please give it a star ⭐️ !
